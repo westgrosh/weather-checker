@@ -6,3 +6,5 @@ ____
       2. API OpenWeatherMap; <br/>
       3. Библиотека JSON in Java. <br/>
 <br/>
+## Внешний вид приложения
+![Image alt](https://github.com/westgrosh/weather-checker/blob/main/PetProject_JavaFX.PNG)
