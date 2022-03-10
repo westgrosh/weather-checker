@@ -1,6 +1,8 @@
 # weather-checker
-Приложение на Java "Узнай погоду в городе" \n
-  Используемые ресурсы:
-    1. Библиотека JavaFX;
-    2. API OpenWeatherMap;
-    3. Библиотека JSON in Java.
+Приложение на Java "Узнай погоду в городе"
+____
+  Используемые ресурсы: <br/>
+      1. Библиотека JavaFX; <br/>
+      2. API OpenWeatherMap; <br/>
+      3. Библиотека JSON in Java. <br/>
+<br/>
